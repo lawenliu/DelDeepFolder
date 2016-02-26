@@ -1,0 +1,9 @@
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\bin\Debug\DelDeepFolder.exe.config
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\bin\Debug\DelDeepFolder.exe
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\bin\Debug\DelDeepFolder.pdb
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\obj\Debug\DelDeepFolder.csprojResolveAssemblyReference.cache
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\obj\Debug\DelDeepFolder.Main.resources
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\obj\Debug\DelDeepFolder.Properties.Resources.resources
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\obj\Debug\DelDeepFolder.csproj.GenerateResource.Cache
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\obj\Debug\DelDeepFolder.exe
+C:\Users\wliu37\Documents\GitHub\DelDeepFolder\DelDeepFolder\DelDeepFolder\obj\Debug\DelDeepFolder.pdb
